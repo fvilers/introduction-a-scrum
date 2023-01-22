@@ -257,3 +257,9 @@ Fabian Vilers
 - Le travail du sprint émerge progressivement
 - Si un travail n'est pas clair, il faut définir une tâche avec plus de temps et la décomposer ensuite
 - Mise à jour du travail restant quand il est mieux connu
+
+---
+
+# Le Sprint Burndown chart
+
+!["Le Sprint Burndown chart](1920px-SampleBurndownChart.svg.png)
