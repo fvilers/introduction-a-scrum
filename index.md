@@ -1,5 +1,11 @@
 ---
 marp: true
+style: |
+  .grid-cols-2 {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(2,minmax(0,1fr));
+  }
 ---
 
 # Introduction à Scrum
@@ -28,3 +34,30 @@ Fabian Vilers
 - Pas de prescription de pratiques d'ingénierie
 - Utilisation de règles génériques permettant de créer un environnement agile pour un projet
 - Scrum est l’un des processus agiles parmi d'autre
+
+---
+
+# Le Manifeste Agile
+
+<div class="grid-cols-2">
+<div>
+
+## Valeurs
+
+- Personnes et interactions
+- Logiciel qui fonctionne
+- Collaboration avec le client
+- Adaptation au changement
+
+</div>
+<div>
+
+## Plutôt que
+
+- Processus et outils
+- Documentation
+- Négociation à partir d'un contrat
+- Suivi d'un plan
+
+</div>
+</div>
