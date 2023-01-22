@@ -149,3 +149,7 @@ Fabian Vilers
 - De préférence à plein temps sur le projet (exceptions possibles)
 - L'équipe s'organise par elle-même
 - Idéalement, pas de titres
+
+---
+
+# Les cérémonials
