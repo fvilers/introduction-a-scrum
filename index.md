@@ -61,3 +61,12 @@ Fabian Vilers
 
 </div>
 </div>
+
+---
+
+# Sprints
+
+- Les projets Scrum progressent par une série de Sprints
+- La durée d'un Sprint est de 2 à 4 semaines
+- Une durée constante apporte un meilleur rythme
+- Le produit (partiel) est conçu, codé et testé pendant le sprint
