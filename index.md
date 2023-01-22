@@ -138,3 +138,14 @@ Fabian Vilers
 - S'assure que l'équipe est complètement fonctionnelle et productive
 - Facilite une coopération poussée entre tous les rôles et fonctions
 - Protège l'équipe des interférences extérieures
+
+---
+
+# L'équipe
+
+- De 5 à 9 personnes, avec une composition stable durant un Sprint
+- Regroupant tous les rôles
+- Développeurs, testeurs, spécialiste IHM, etc.
+- De préférence à plein temps sur le projet (exceptions possibles)
+- L'équipe s'organise par elle-même
+- Idéalement, pas de titres
