@@ -6,6 +6,12 @@ style: |
     gap: 1rem;
     grid-template-columns: repeat(2,minmax(0,1fr));
   }
+
+  .grid-cols-3 {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(3,minmax(0,1fr));
+  }
 ---
 
 # Introduction à Scrum
@@ -70,3 +76,39 @@ Fabian Vilers
 - La durée d'un Sprint est de 2 à 4 semaines
 - Une durée constante apporte un meilleur rythme
 - Le produit (partiel) est conçu, codé et testé pendant le sprint
+
+---
+
+# Le cadre de Scrum
+
+<div class="grid-cols-3">
+<div>
+
+## Rôles
+
+- Product Owner
+- Scrum Master
+- L’équipe
+
+</div>
+<div>
+
+## Cérémonial
+
+- Sprint Planning
+- Sprint Review
+- Sprint Retrospective
+- Daily Scrum Meeting
+
+</div>
+
+<div>
+
+## Artefacts
+
+- Product Backlog
+- Sprint Backlog
+- Burndown Chart
+
+</div>
+</div>
