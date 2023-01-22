@@ -163,3 +163,29 @@ Fabian Vilers
 - Les tâches sont identifiées et estimées (1-16 heures)
 - Collectivement, pas seulement par le Scrum Master
 - La conception de haut niveau est abordée
+
+---
+
+# Le Daily Scrum
+
+<div class="grid-cols-2">
+<div>
+
+- ## Paramètres
+- Tous les jours, 15 minutes, debout
+- Pas fait pour résoudre les problèmes
+- Tout le monde est invité mais seuls les membres de l'équipe peuvent parler
+- Permet d'éviter l'organisation d'autres réunions
+
+</div>
+<div>
+
+## Chacun répond à 3 questions
+
+- Qu'ai-je fait hier ?
+- Que vais-je faire aujourd’hui ?
+- Y a-t-il un obstacle qui me freine ?
+- Il ne s'agit de compte-rendus au Scrum Master mais d’ engagement devant ses pairs
+
+</div>
+</div>
