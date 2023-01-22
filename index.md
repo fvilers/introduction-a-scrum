@@ -200,3 +200,27 @@ Fabian Vilers
 - Pas de slides
 - Toute l'équipe participe
 - On invite du monde
+
+---
+
+# Le Sprint Retrospective
+
+<div class="grid-cols-2">
+<div>
+
+- Réfléchir régulièrement à ce qui marche et ce qui ne marche pas
+- Dure en général de 15 à 30 minutes
+- Fait à la fin de chaque Sprint
+- Toute l'équipe participe (Scrum Master, Product Owner, et l’équipe de réalisation)
+- Éventuellement avec des clients et autres intervenants
+
+</div>
+<div>
+
+- Toute l'équipe collecte du feedback et discute sur ce qu'elle aimerait :
+  - commencer à faire
+  - arrêter de faire
+  - continuer de faire
+
+</div>
+</div>
