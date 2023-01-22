@@ -189,3 +189,14 @@ Fabian Vilers
 
 </div>
 </div>
+
+---
+
+# Le Sprint Review
+
+- L'équipe présente ce qu'elle a fait pendant le Sprint
+- Se fait avec une démo des nouvelles fonctionnalités ou de l'architecture
+- Informel, préparation en moins de 2h
+- Pas de slides
+- Toute l'équipe participe
+- On invite du monde
