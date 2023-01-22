@@ -171,7 +171,8 @@ Fabian Vilers
 <div class="grid-cols-2">
 <div>
 
-- ## Paramètres
+## Paramètres
+
 - Tous les jours, 15 minutes, debout
 - Pas fait pour résoudre les problèmes
 - Tout le monde est invité mais seuls les membres de l'équipe peuvent parler
