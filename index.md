@@ -245,3 +245,15 @@ Fabian Vilers
 # Le Sprint Goal
 
 - Un bref énoncé de sur quoi va porter l'essentiel du travail pendant le Sprint
+
+---
+
+# La gestion du Sprint Backlog
+
+- Chacun s'engage sur du travail qu'il choisit
+- Le travail n'est jamais attribué par un autre
+- L'estimation du reste à faire est ajustée tous les jours
+- N'importe qui peut ajouter, supprimer ou changer la liste des tâches
+- Le travail du sprint émerge progressivement
+- Si un travail n'est pas clair, il faut définir une tâche avec plus de temps et la décomposer ensuite
+- Mise à jour du travail restant quand il est mieux connu
