@@ -116,3 +116,14 @@ Fabian Vilers
 ---
 
 # Les rôles
+
+---
+
+# Le Product Owner
+
+- Définit les fonctionnalités du produit
+- Choisit la date et le contenu de la release
+- Responsable du retour sur investissement
+- Définit les priorités dans le Backlog en fonction de la valeur métier
+- Ajuste les fonctionnalités et les priorités à chaque sprint si nécessaire
+- Accepte ou rejette les résultats
