@@ -239,3 +239,9 @@ Fabian Vilers
 - Exprimé de telle façon que chaque élément apporte de la valeur aux utilisateurs ou clients du produit
 - Les priorités sont définies par le Product Owner
 - Les priorités sont revues à chaque sprint
+
+---
+
+# Le Sprint Goal
+
+- Un bref énoncé de sur quoi va porter l'essentiel du travail pendant le Sprint
