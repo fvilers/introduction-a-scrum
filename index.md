@@ -274,3 +274,9 @@ Fabian Vilers
 - “Succeeding with Agile” par Mike Cohn
   “User Stories Applied for Agile Software - Development” par Mike Cohn
 - “Scrum - Le guide pratique de la méthode agile la plus populaire” par Claude Aubry
+
+---
+
+# Source
+
+- Scrum Presentation, by [Mountain Goat Software](http://www.mountaingoatsoftware.com/), licensed under CC BY 3.0
