@@ -263,3 +263,14 @@ Fabian Vilers
 # Le Sprint Burndown chart
 
 !["Le Sprint Burndown chart](1920px-SampleBurndownChart.svg.png)
+
+---
+
+# Liste de lecture
+
+- “Agile Estimating and Planning” par Mike Cohn
+  “Agile Project Management with Scrum” par Ken - Schwaber
+- “Scrum and The Enterprise” par Ken Schwaber
+- “Succeeding with Agile” par Mike Cohn
+  “User Stories Applied for Agile Software - Development” par Mike Cohn
+- “Scrum - Le guide pratique de la méthode agile la plus populaire” par Claude Aubry
