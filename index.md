@@ -153,3 +153,13 @@ Fabian Vilers
 ---
 
 # Les cérémonials
+
+---
+
+# Le Sprint Planning
+
+- L'équipe choisit, à partir du Product Backlog, les éléments qu'elle s'engage à finir.
+- La liste des tâches est créée
+- Les tâches sont identifiées et estimées (1-16 heures)
+- Collectivement, pas seulement par le Scrum Master
+- La conception de haut niveau est abordée
