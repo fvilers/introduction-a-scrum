@@ -1,16 +1,20 @@
 ---
 marp: true
 style: |
-  .grid-cols-2 {
+  .grid {
     display: grid;
-    gap: 1rem;
+  }
+
+  .grid-cols-2 {
     grid-template-columns: repeat(2,minmax(0,1fr));
   }
 
   .grid-cols-3 {
-    display: grid;
-    gap: 1rem;
     grid-template-columns: repeat(3,minmax(0,1fr));
+  }
+
+  .gap-4 {
+    gap: 1rem;
   }
 ---
 
@@ -25,10 +29,10 @@ Fabian Vilers
 
 # Qu'est-ce que Scrum?
 
-- Scrum est un processus agile qui permet de produire la plus grande valeur métier dans la durée la plus courte.
-- Du logiciel qui fonctionne est produit à chaque Sprint (toutes les 2 à 4 semaines).
-- Le business définit les priorités. L'équipe s'organise elle-même pour déterminer la meilleure façon de produire les exigences les plus prioritaires.
-- A chaque fin de Sprint, tout le monde peut voir fonctionner le produit courant et décider soit de le livrer dans l'état, soit de continuer à l'améliorer pendant un Sprint supplémentaire.
+- Scrum est un processus agile qui permet de produire la plus grande valeur métier dans la durée la plus courte
+- Du logiciel qui fonctionne est produit à chaque Sprint
+- Le business définit les priorités. L'équipe s'organise elle-même pour déterminer la meilleure façon de produire les exigences les plus prioritaires
+- A chaque fin de Sprint, tout le monde peut voir fonctionner le produit courant et décider soit de le livrer dans l'état, soit de continuer à l'améliorer pendant un Sprint supplémentaire
 
 ---
 
@@ -39,13 +43,13 @@ Fabian Vilers
 - Exigences définies comme des éléments d'une liste appelée Product Backlog
 - Pas de prescription de pratiques d'ingénierie
 - Utilisation de règles génériques permettant de créer un environnement agile pour un projet
-- Scrum est l’un des processus agiles parmi d'autre
+- Scrum est l'un des processus agiles parmi d'autre
 
 ---
 
 # Le Manifeste Agile
 
-<div class="grid-cols-2">
+<div class="grid grid-cols-2 gap-4">
 <div>
 
 ## Valeurs
@@ -81,19 +85,19 @@ Fabian Vilers
 
 # Le cadre de Scrum
 
-<div class="grid-cols-3">
+<div class="grid grid-cols-3 gap-4">
 <div>
 
 ## Rôles
 
 - Product Owner
 - Scrum Master
-- L’équipe
+- L'équipe
 
 </div>
 <div>
 
-## Cérémonial
+## Cérémonials
 
 - Sprint Planning
 - Sprint Review
@@ -133,7 +137,7 @@ Fabian Vilers
 # Le Scrum Master
 
 - Représente le management du projet
-- Responsable de faire appliquer par l'équipe les valeurs et les pratiques de Scrum
+- Responsable de l'application par l'équipe les valeurs et les pratiques de Scrum
 - Élimine les obstacles
 - S'assure que l'équipe est complètement fonctionnelle et productive
 - Facilite une coopération poussée entre tous les rôles et fonctions
@@ -158,7 +162,7 @@ Fabian Vilers
 
 # Le Sprint Planning
 
-- L'équipe choisit, à partir du Product Backlog, les éléments qu'elle s'engage à finir.
+- L'équipe choisit, à partir du Product Backlog, les éléments qu'elle s'engage à finir
 - La liste des tâches est créée
 - Les tâches sont identifiées et estimées (1-16 heures)
 - Collectivement, pas seulement par le Scrum Master
@@ -168,7 +172,7 @@ Fabian Vilers
 
 # Le Daily Scrum
 
-<div class="grid-cols-2">
+<div class="grid grid-cols-2 gap-4">
 <div>
 
 ## Paramètres
@@ -184,9 +188,9 @@ Fabian Vilers
 ## Chacun répond à 3 questions
 
 - Qu'ai-je fait hier ?
-- Que vais-je faire aujourd’hui ?
+- Que vais-je faire aujourd'hui ?
 - Y a-t-il un obstacle qui me freine ?
-- Il ne s'agit de compte-rendus au Scrum Master mais d’ engagement devant ses pairs
+- Il ne s'agit pas d'un compte-rendus au Scrum Master mais d'un engagement devant ses pairs
 
 </div>
 </div>
@@ -195,7 +199,7 @@ Fabian Vilers
 
 # Le Sprint Review
 
-- L'équipe présente ce qu'elle a fait pendant le Sprint
+- L'équipe présente ce qu'elle a réalisé pendant le Sprint
 - Se fait avec une démo des nouvelles fonctionnalités ou de l'architecture
 - Informel, préparation en moins de 2h
 - Pas de slides
@@ -211,8 +215,8 @@ Fabian Vilers
 
 - Réfléchir régulièrement à ce qui marche et ce qui ne marche pas
 - Dure en général de 15 à 30 minutes
-- Fait à la fin de chaque Sprint
-- Toute l'équipe participe (Scrum Master, Product Owner, et l’équipe de réalisation)
+- Organisé à la fin de chaque Sprint
+- Toute l'équipe participe (Scrum Master, Product Owner, et l'équipe de réalisation)
 - Éventuellement avec des clients et autres intervenants
 
 </div>
@@ -268,12 +272,9 @@ Fabian Vilers
 
 # Liste de lecture
 
-- “Agile Estimating and Planning” par Mike Cohn
-  “Agile Project Management with Scrum” par Ken - Schwaber
-- “Scrum and The Enterprise” par Ken Schwaber
-- “Succeeding with Agile” par Mike Cohn
-  “User Stories Applied for Agile Software - Development” par Mike Cohn
-- “Scrum - Le guide pratique de la méthode agile la plus populaire” par Claude Aubry
+- "Agile Estimating and Planning", "Succeeding with Agile", et "User Stories Applied for Agile Software - Development" de Mike Cohn
+- "Agile Project Management with Scrum", et "Scrum and The Enterprise" de Ken Schwaber
+- "Scrum - Le guide pratique de la méthode agile la plus populaire" par Claude Aubry
 
 ---
 
