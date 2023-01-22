@@ -127,3 +127,14 @@ Fabian Vilers
 - Définit les priorités dans le Backlog en fonction de la valeur métier
 - Ajuste les fonctionnalités et les priorités à chaque sprint si nécessaire
 - Accepte ou rejette les résultats
+
+---
+
+# Le Scrum Master
+
+- Représente le management du projet
+- Responsable de faire appliquer par l'équipe les valeurs et les pratiques de Scrum
+- Élimine les obstacles
+- S'assure que l'équipe est complètement fonctionnelle et productive
+- Facilite une coopération poussée entre tous les rôles et fonctions
+- Protège l'équipe des interférences extérieures
